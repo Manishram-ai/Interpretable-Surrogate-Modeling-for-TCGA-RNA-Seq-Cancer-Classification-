@@ -3,7 +3,7 @@
 
 # Interpretable Surrogate Modeling for TCGA RNA-Seq Cancer Type Classification
 
-This repository contains the code and resources for the project "Interpretable Surrogate Modeling for TCGA RNA-Seq Cancer Type Classification," a class project for CSS 490/590 at the University of Washington, Bothell.
+This repository contains the code and resources for the project "Interpretable Surrogate Modeling for TCGA RNA-Seq Cancer Type Classification"
 
 **Authors:** Subhash Saravanan*, Manish Ram*
 
